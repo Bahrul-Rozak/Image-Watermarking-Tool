@@ -14,7 +14,9 @@
 4. Save the image with the watermark.
 
 ## Example
-![Original Image](original_image.jpg) ![Image with Watermark](image_with_watermark.jpg)
+![image](https://github.com/Bahrul-Rozak/Image-Watermarking-Tool/assets/57394564/61bfe4e4-3cb6-451b-8414-135def0d5af0)
+
+
 
 ## Dependencies
 - Python 3
